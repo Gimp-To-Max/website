@@ -2,6 +2,4 @@
 
 Very awesome website
 
-Example branch edit
-
 Updating.
